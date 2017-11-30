@@ -1,0 +1,9 @@
+c:\users\bilal_mehmood\documents\visual studio 2015\Projects\1-RGB-GrayscaleImage\1-RGB-GrayscaleImage\bin\Debug\1-RGB-GrayscaleImage.exe.config
+c:\users\bilal_mehmood\documents\visual studio 2015\Projects\1-RGB-GrayscaleImage\1-RGB-GrayscaleImage\bin\Debug\1-RGB-GrayscaleImage.exe
+c:\users\bilal_mehmood\documents\visual studio 2015\Projects\1-RGB-GrayscaleImage\1-RGB-GrayscaleImage\bin\Debug\1-RGB-GrayscaleImage.pdb
+c:\users\bilal_mehmood\documents\visual studio 2015\Projects\1-RGB-GrayscaleImage\1-RGB-GrayscaleImage\obj\Debug\1-RGB-GrayscaleImage.csprojResolveAssemblyReference.cache
+c:\users\bilal_mehmood\documents\visual studio 2015\Projects\1-RGB-GrayscaleImage\1-RGB-GrayscaleImage\obj\Debug\_1_RGB_GrayscaleImage.Form1.resources
+c:\users\bilal_mehmood\documents\visual studio 2015\Projects\1-RGB-GrayscaleImage\1-RGB-GrayscaleImage\obj\Debug\_1_RGB_GrayscaleImage.Properties.Resources.resources
+c:\users\bilal_mehmood\documents\visual studio 2015\Projects\1-RGB-GrayscaleImage\1-RGB-GrayscaleImage\obj\Debug\1-RGB-GrayscaleImage.csproj.GenerateResource.Cache
+c:\users\bilal_mehmood\documents\visual studio 2015\Projects\1-RGB-GrayscaleImage\1-RGB-GrayscaleImage\obj\Debug\1-RGB-GrayscaleImage.exe
+c:\users\bilal_mehmood\documents\visual studio 2015\Projects\1-RGB-GrayscaleImage\1-RGB-GrayscaleImage\obj\Debug\1-RGB-GrayscaleImage.pdb
